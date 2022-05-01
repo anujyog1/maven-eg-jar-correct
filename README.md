@@ -1,0 +1,1 @@
+# maven-eg-jar-correct
